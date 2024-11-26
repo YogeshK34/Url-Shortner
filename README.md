@@ -1,7 +1,3 @@
-# Create the updated README.md content
-
-readme_content = """
-
 # **URL Shortener API**
 
 A simple API that allows users to shorten URLs, redirect to the original URLs, and track usage statistics.
